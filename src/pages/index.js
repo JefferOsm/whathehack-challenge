@@ -11,6 +11,9 @@ const Index = ({ pets }) => {
     <>
 
       {/* TODO: Display Hours component */}
+      <div>
+        <Hours />
+      </div>
 
       {/* Create a card for each pet */}
       {pets.map((pet) => (

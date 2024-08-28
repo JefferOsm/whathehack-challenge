@@ -1,4 +1,5 @@
 # What The Hack - Modern development con DevOps y GitHub
+Jeffer Osmany Martinez
 
 ## ¿Qué es What The Hack?
 
